@@ -2,7 +2,7 @@
 
 Learn how easily you can create and configure the Syncfusion Vue ListBox using Vue CLI. You will see how to populate JSON data and remote data sources to the ListBox, how to sort the data source, and how to set a custom height and width for the ListBox pop-up. 
 
-Documentatio Link: https://ej2.syncfusion.com/vue/documentation/list-box/getting-started/ 
+Documentation Link: https://ej2.syncfusion.com/vue/documentation/list-box/getting-started/ 
 
 Demo Link: https://ej2.syncfusion.com/vue/demos/#/material/list-box/default.html 
 
